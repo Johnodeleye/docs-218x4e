@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ljc4t2.indocuansite.space/sitemap.xml
